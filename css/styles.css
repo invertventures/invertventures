@@ -61,6 +61,12 @@ main>.roles {
     font-weight: 100;
 }
 
+main>.address {
+    font-size: 0.7rem;
+    margin: 1rem 0;
+    font-weight: 100;
+}
+
 .icons-social i {
     padding: 10px;
 }
